@@ -267,7 +267,7 @@ The `eerr/` directory contains SQL queries and notebooks for extracting data fro
 
 ## License
 
-See `LICENSE` file for details.
+See [LICENSE](LICENSE) file for details.
 
 ## Funding
 
