@@ -1,0 +1,3 @@
+folder,suffix_expected,applicable_files,suffix_ok,suffix_ok_%,pipeline_tag_mismatches
+results_dwa2,_dwa,124,0,0.0,30
+results_coursera2,_coursera,124,0,0.0,124

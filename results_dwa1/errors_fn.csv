@@ -1,0 +1,1 @@
+q_idx,q_text,rank,score,sim,z,jacc,lenpen,bm25,mnn,cand_idx,cand_label,cand_text,score2,sim2,margin_top1_top2,delta_sim_top1_top2,accepted,near_threshold

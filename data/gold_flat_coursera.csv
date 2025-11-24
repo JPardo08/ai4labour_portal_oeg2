@@ -1,0 +1,401 @@
+query_text,cand_text,label
+train personnel on proper operational procedures,instructional design,positive
+train personnel on proper operational procedures,leadership,positive
+train personnel on proper operational procedures,application security,negative
+train personnel on proper operational procedures,network defensive tactics,negative
+prepare procedural documents,process improvement,positive
+prepare procedural documents,project management,positive
+prepare procedural documents,cybersecurity,negative
+prepare procedural documents,threat intelligence,negative
+"recommend technical design or process changes to improve efficiency, quality, or performance",systems design,positive
+"recommend technical design or process changes to improve efficiency, quality, or performance",six sigma,positive
+"recommend technical design or process changes to improve efficiency, quality, or performance",digital marketing,negative
+"recommend technical design or process changes to improve efficiency, quality, or performance",social media marketing,negative
+confer with technical personnel to prepare designs or operational plans,collaboration,positive
+confer with technical personnel to prepare designs or operational plans,engineering design,positive
+confer with technical personnel to prepare designs or operational plans,customer service,negative
+confer with technical personnel to prepare designs or operational plans,accounting,negative
+"communicate technical information to suppliers, contractors, or regulatory agencies",financial analysis,positive
+"communicate technical information to suppliers, contractors, or regulatory agencies",cost accounting,positive
+"communicate technical information to suppliers, contractors, or regulatory agencies",public health,negative
+"communicate technical information to suppliers, contractors, or regulatory agencies",psychology,negative
+design medical devices or appliances,python programming,positive
+design medical devices or appliances,software development,positive
+design medical devices or appliances,5g,negative
+design medical devices or appliances,biology,negative
+research engineering aspects of biological or chemical processes,chemical engineering,positive
+research engineering aspects of biological or chemical processes,engineering,positive
+research engineering aspects of biological or chemical processes,ai/ml,negative
+research engineering aspects of biological or chemical processes,graphic design,negative
+devise research or testing protocols,a/b testing,positive
+devise research or testing protocols,a/b/n testing,positive
+devise research or testing protocols,c++,negative
+devise research or testing protocols,art history,negative
+develop operational methods or processes that use green materials or emphasize sustainability,raw materials and processes,positive
+develop operational methods or processes that use green materials or emphasize sustainability,develop communication processes during change management planning,positive
+develop operational methods or processes that use green materials or emphasize sustainability,neuroscience,negative
+develop operational methods or processes that use green materials or emphasize sustainability,c++11,negative
+develop technical methods or processes,methods,positive
+develop technical methods or processes,5d and 3d integration methods,positive
+develop technical methods or processes,financial markets,negative
+develop technical methods or processes,c/c++,negative
+create models of engineering designs or methods,assembly methods,positive
+create models of engineering designs or methods,attention models,positive
+create models of engineering designs or methods,security analyst,negative
+create models of engineering designs or methods,cyberattacks,negative
+maintain operational records or records systems,pv systems,positive
+maintain operational records or records systems,control systems,positive
+maintain operational records or records systems,network security,negative
+maintain operational records or records systems,threat,negative
+supervise engineering or other technical personnel,aquaculture engineering,positive
+supervise engineering or other technical personnel,civil engineering,positive
+supervise engineering or other technical personnel,risk,negative
+supervise engineering or other technical personnel,information assurance,negative
+estimate operational costs,cost estimate,positive
+estimate operational costs,sunk costs,positive
+estimate operational costs,security,negative
+estimate operational costs,governance,negative
+estimate time requirements for development or production projects,production,positive
+estimate time requirements for development or production projects,ui development,positive
+estimate time requirements for development or production projects,opportunity identification,negative
+estimate time requirements for development or production projects,strategic thinking,negative
+prepare detailed work plans,prepare a detailed sales call plan,positive
+prepare detailed work plans,prepare data,positive
+prepare detailed work plans,business analytics,negative
+prepare detailed work plans,entrepreneurship,negative
+prepare technical reports for internal use,reports,positive
+prepare technical reports for internal use,design reports,positive
+prepare technical reports for internal use,emotional intelligence,negative
+prepare technical reports for internal use,customer relationship management (crm),negative
+"prepare contracts, disclosures, or applications",contracts,positive
+"prepare contracts, disclosures, or applications",back-end applications,positive
+"prepare contracts, disclosures, or applications",communication,negative
+"prepare contracts, disclosures, or applications",bargaining,negative
+update technical knowledge,gst technical,positive
+update technical knowledge,it skills and knowledge,positive
+update technical knowledge,negotiation,negative
+update technical knowledge,income statement analysis,negative
+evaluate characteristics of equipment or systems,ar characteristics,positive
+evaluate characteristics of equipment or systems,defining systems,positive
+evaluate characteristics of equipment or systems,balance sheet,negative
+evaluate characteristics of equipment or systems,financial terminology,negative
+evaluate quality of materials or products,quality management,positive
+evaluate quality of materials or products,quality assessment,positive
+evaluate quality of materials or products,content marketing,negative
+evaluate quality of materials or products,public speaking,negative
+test products for functionality or quality,nondestructive testing (ndt),positive
+test products for functionality or quality,software testing,positive
+test products for functionality or quality,nutrition,negative
+test products for functionality or quality,photography,negative
+conduct validation tests of equipment or processes,validation,positive
+conduct validation tests of equipment or processes,system testing,positive
+conduct validation tests of equipment or processes,creative writing,negative
+conduct validation tests of equipment or processes,music theory,negative
+analyze test or validation data,statistical analysis,positive
+analyze test or validation data,data analysis,positive
+analyze test or validation data,public relations,negative
+analyze test or validation data,b2b sales,negative
+"analyze operational data to evaluate operations, processes or products",data visualization (dataviz),positive
+"analyze operational data to evaluate operations, processes or products",exploratory data analysis,positive
+"analyze operational data to evaluate operations, processes or products",brand identity and management,negative
+"analyze operational data to evaluate operations, processes or products",social media analytics,negative
+implement design or process improvements,process optimization,positive
+implement design or process improvements,lean manufacturing,positive
+implement design or process improvements,child psychology,negative
+implement design or process improvements,intercultural communication,negative
+design industrial processing systems,process control,positive
+design industrial processing systems,statistical process control (spc),positive
+design industrial processing systems,copywriting,negative
+design industrial processing systems,storytelling,negative
+create physical models or prototypes,rapid prototyping,positive
+create physical models or prototypes,3d printing,positive
+create physical models or prototypes,financial accounting,negative
+create physical models or prototypes,history,negative
+evaluate environmental impact of operational or development activities,environmental impact assessment,positive
+evaluate environmental impact of operational or development activities,air quality monitoring,positive
+evaluate environmental impact of operational or development activities,retail management,negative
+evaluate environmental impact of operational or development activities,brand management,negative
+prepare scientific or technical reports or presentations,report building,positive
+prepare scientific or technical reports or presentations,dashboarding and reporting,positive
+prepare scientific or technical reports or presentations,music production,negative
+prepare scientific or technical reports or presentations,philosophy of science,negative
+develop software or computer applications,android software development,positive
+develop software or computer applications,scrum (software development),positive
+develop software or computer applications,poetry,negative
+develop software or computer applications,poetry writing,negative
+conduct environmental audits,environmental impacts,positive
+conduct environmental audits,sustainability,positive
+conduct environmental audits,teaching creative writing,negative
+conduct environmental audits,literature,negative
+maintain regulatory or compliance documentation,data documentation,positive
+maintain regulatory or compliance documentation,compliance,positive
+maintain regulatory or compliance documentation,shakespeare,negative
+maintain regulatory or compliance documentation,appreciate richness of shakespearean language,negative
+prepare operational reports,data reporting,positive
+prepare operational reports,reports and dashboards,positive
+prepare operational reports,guitar scales,negative
+prepare operational reports,guitar chords,negative
+supervise employees,leadership development,positive
+supervise employees,leadership and management,positive
+supervise employees,guitar,negative
+supervise employees,playing guitar,negative
+prepare operational budgets,capital budgeting,positive
+prepare operational budgets,budgeting techniques for cost and profit centers,positive
+prepare operational budgets,piano,negative
+prepare operational budgets,piano performance,negative
+analyze data to inform operational decisions or activities,business intelligence,positive
+analyze data to inform operational decisions or activities,data-driven decision making,positive
+analyze data to inform operational decisions or activities,illustration,negative
+analyze data to inform operational decisions or activities,digital fashion design,negative
+coordinate safety or regulatory compliance activities,risk management,positive
+coordinate safety or regulatory compliance activities,food safety,positive
+coordinate safety or regulatory compliance activities,3d fashion design,negative
+coordinate safety or regulatory compliance activities,on-demand fashion design,negative
+design control systems for mechanical or other equipment,pid control,positive
+design control systems for mechanical or other equipment,automation,positive
+design control systems for mechanical or other equipment,cooking vegetables in ways that will delight,negative
+design control systems for mechanical or other equipment,cooking,negative
+direct installation activities,verify an ansible installation,positive
+direct installation activities,electrical commissioning,positive
+direct installation activities,psychotherapy,negative
+direct installation activities,mindfulness,negative
+administer compensation or benefits programs,compensation and benefits,positive
+administer compensation or benefits programs,compensation analysis,positive
+administer compensation or benefits programs,.bit,negative
+administer compensation or benefits programs,.net,negative
+administer standardized physical or psychological tests,acquire skills in generating a wide range of creative ideas and techniques that can be applied with safety to encourage innovative thinking and solution exploration,positive
+administer standardized physical or psychological tests,assessing ones level of anxiety (resilience and burnout) using self-assessment tests,positive
+administer standardized physical or psychological tests,.net architecture,negative
+administer standardized physical or psychological tests,.net core,negative
+advise customers on technical or procedural issues,analyzing technical and financial possibilities,positive
+advise customers on technical or procedural issues,designing rpa technical specification documents,positive
+advise customers on technical or procedural issues,.net framework,negative
+advise customers on technical or procedural issues,2-d arrays,negative
+advise customers on the use of products or services,5g services and architecture,positive
+advise customers on the use of products or services,amazon web services (amazon aws),positive
+advise customers on the use of products or services,2d & 3d design,negative
+advise customers on the use of products or services,2d computer graphics,negative
+advise others on career or personal development,career development,positive
+advise others on career or personal development,personal development,positive
+advise others on career or personal development,360-degree video,negative
+advise others on career or personal development,3d computer graphics,negative
+advise others on legal or regulatory compliance matters,legal compliance,positive
+advise others on legal or regulatory compliance matters,regulatory compliance,positive
+advise others on legal or regulatory compliance matters,3d modeling,negative
+advise others on legal or regulatory compliance matters,4g technology,negative
+advise others on logistics topics,communicating with others in person,positive
+advise others on logistics topics,distribution and logistics,positive
+advise others on logistics topics,4th amendment,negative
+advise others on logistics topics,80/20 rule of social media,negative
+advise others regarding green practices or environmental concerns,greater understanding of environmental concerns,positive
+advise others regarding green practices or environmental concerns,educational practices,positive
+advise others regarding green practices or environmental concerns,a basic understanding of epidemiological theory,negative
+advise others regarding green practices or environmental concerns,a basic understanding of matrices and probability,negative
+analyze biological samples,ability to analyze and discuss key financial statements,positive
+analyze biological samples,ability to analyze and interpret the financial impact of different transactions on the financial position and performance of a company,positive
+analyze biological samples,a general understanding of traditional chinese medicine and indian ayurveda,negative
+analyze biological samples,a* search algorithm,negative
+analyze chemical compounds or substances,analyze data from a continuous measurement system for sources of variation capability,positive
+analyze chemical compounds or substances,analyze a data breach,positive
+analyze chemical compounds or substances,a/b testing and model deployment,negative
+analyze chemical compounds or substances,abductive reasoning,negative
+research methods to improve food products,big data products,positive
+research methods to improve food products,food,positive
+research methods to improve food products,robotic mapping,negative
+research methods to improve food products,particle filter,negative
+analyze logistics processes,international logistics,positive
+analyze logistics processes,logistics planning,positive
+analyze logistics processes,linear scheduling method,negative
+analyze logistics processes,finite-state machine,negative
+"cultivate micro-organisms for study, testing, or medical preparations",qa and testing,positive
+"cultivate micro-organisms for study, testing, or medical preparations",automated testing,positive
+"cultivate micro-organisms for study, testing, or medical preparations",microcontroller,negative
+"cultivate micro-organisms for study, testing, or medical preparations",project planning and analysis,negative
+test quality of materials or finished products,materials,positive
+test quality of materials or finished products,materials research,positive
+test quality of materials or finished products,kotlin,negative
+test quality of materials or finished products,hypothesis-driven development,negative
+maintain knowledge of current developments in area of expertise,expertise in data science,positive
+maintain knowledge of current developments in area of expertise,voltage and current sensors,positive
+maintain knowledge of current developments in area of expertise,understand how to identify customers who have predispositions but no desired behavior,negative
+maintain knowledge of current developments in area of expertise,calibration in machine learning models,negative
+design structures or facilities,graph data structures,positive
+design structures or facilities,organizational structures,positive
+design structures or facilities,r and rstudio,negative
+design structures or facilities,ticketing systems,negative
+recommend organizational process or policy changes,environmental policy,positive
+recommend organizational process or policy changes,organizational change,positive
+recommend organizational process or policy changes,earth economics,negative
+recommend organizational process or policy changes,crt0,negative
+assemble equipment or components,components of gans,positive
+assemble equipment or components,analyzing story components,positive
+assemble equipment or components,jquery,negative
+assemble equipment or components,confounding,negative
+analyze data to assess operational or project effectiveness,project,positive
+analyze data to assess operational or project effectiveness,project operations,positive
+analyze data to assess operational or project effectiveness,apposition,negative
+analyze data to assess operational or project effectiveness,conditionals (computer science),negative
+evaluate employee performance,performance,positive
+evaluate employee performance,performance management,positive
+evaluate employee performance,synchronous communication request-response model,negative
+evaluate employee performance,externality,negative
+investigate the environmental impact of projects,market impact,positive
+investigate the environmental impact of projects,impact assessment,positive
+investigate the environmental impact of projects,vestibular system,negative
+investigate the environmental impact of projects,gst compliances,negative
+fabricate devices or components,mobile devices,positive
+fabricate devices or components,display devices,positive
+fabricate devices or components,interacting with github,negative
+fabricate devices or components,medical billing,negative
+research industrial processes or operations,research,positive
+research industrial processes or operations,ux research,positive
+research industrial processes or operations,luxury goods,negative
+research industrial processes or operations,marketing supply chain finance services,negative
+design energy-efficient vehicles or vehicle components,electric vehicles,positive
+design energy-efficient vehicles or vehicle components,laptop and mobile components,positive
+design energy-efficient vehicles or vehicle components,microservice architecture,negative
+design energy-efficient vehicles or vehicle components,survivorship,negative
+identify opportunities to improve operational efficiency,explain the concept of blank space to identify opportunities,positive
+identify opportunities to improve operational efficiency,market efficiency,positive
+identify opportunities to improve operational efficiency,big data transmission,negative
+identify opportunities to improve operational efficiency,loan,negative
+design industrial equipment,industrial iot,positive
+design industrial equipment,personal protective equipment,positive
+design industrial equipment,certification prep,negative
+design industrial equipment,reaction wheels,negative
+monitor activities affecting environmental quality,quality,positive
+monitor activities affecting environmental quality,data quality,positive
+monitor activities affecting environmental quality,threat model,negative
+monitor activities affecting environmental quality,green washing,negative
+collect samples of raw materials or finished products,materials safety,positive
+collect samples of raw materials or finished products,materials planning,positive
+collect samples of raw materials or finished products,real-time tracing,negative
+collect samples of raw materials or finished products,computational thinking,negative
+manage inventories of products or organizational resources,natural resources,positive
+manage inventories of products or organizational resources,human resources (hr),positive
+manage inventories of products or organizational resources,system operation,negative
+manage inventories of products or organizational resources,red hat linux,negative
+prepare reports related to compliance matters,sez compliance,positive
+prepare reports related to compliance matters,safety compliance,positive
+prepare reports related to compliance matters,digital circuit design,negative
+prepare reports related to compliance matters,health equity,negative
+direct operational or production activities,video production,positive
+direct operational or production activities,video pre-production,positive
+direct operational or production activities,financial statement use and analysis,negative
+direct operational or production activities,financial ratio analysis,negative
+respond to emergencies to provide assistance,psychological first aid,positive
+respond to emergencies to provide assistance,incident response playbooks,positive
+respond to emergencies to provide assistance,strategic planning,negative
+respond to emergencies to provide assistance,vision statement development,negative
+monitor external affairs or events affecting business operations,business culture analysis,positive
+monitor external affairs or events affecting business operations,operations management,positive
+monitor external affairs or events affecting business operations,customer value proposition (cvp) development,negative
+monitor external affairs or events affecting business operations,strategic pricing,negative
+"direct sales, marketing, or customer service activities",sales management,positive
+"direct sales, marketing, or customer service activities",marketing management,positive
+"direct sales, marketing, or customer service activities",competitive advantage analysis,negative
+"direct sales, marketing, or customer service activities",competitive analysis,negative
+"direct organizational operations, projects, or services",services based interfaces and architecture (sbi/sba),positive
+"direct organizational operations, projects, or services",how organizational leaders are ultimately accountable for meeting commitments,positive
+"direct organizational operations, projects, or services",financial management,negative
+"direct organizational operations, projects, or services",cash flow cycle analysis,negative
+monitor organizational procedures to ensure proper functioning,principles and procedures related to share-based compensation,positive
+monitor organizational procedures to ensure proper functioning,accounting organizational skills,positive
+monitor organizational procedures to ensure proper functioning,cash flow forecast analysis,negative
+monitor organizational procedures to ensure proper functioning,market research,negative
+confer with organizational members to accomplish work activities,stakeholder communication,positive
+confer with organizational members to accomplish work activities,digital collaboration,positive
+confer with organizational members to accomplish work activities,value proposition analysis,negative
+confer with organizational members to accomplish work activities,process management,negative
+conduct employee training programs,prevention programs,positive
+conduct employee training programs,training,positive
+conduct employee training programs,business modelling,negative
+conduct employee training programs,business culture development,negative
+manage control system activities in organizations,manufacturing process management,positive
+manage control system activities in organizations,mobility management,positive
+manage control system activities in organizations,funding requirement analysis,negative
+manage control system activities in organizations,funding applications,negative
+maintain personnel records,maintaining individual accountability,positive
+maintain personnel records,electronic health records,positive
+maintain personnel records,strategic financial planning,negative
+maintain personnel records,analytics,negative
+negotiate sales or lease agreements for products or services,contract negotiations,positive
+negotiate sales or lease agreements for products or services,sales strategy,positive
+negotiate sales or lease agreements for products or services,calculus,negative
+negotiate sales or lease agreements for products or services,linear algebra,negative
+develop specifications for new products or processes,requirements analysis,positive
+develop specifications for new products or processes,requirements engineering,positive
+develop specifications for new products or processes,cartography,negative
+develop specifications for new products or processes,paleontology,negative
+hire personnel,recruitment,positive
+hire personnel,interviewing skills,positive
+hire personnel,philosophy,negative
+hire personnel,astrophysics,negative
+prepare operational progress or status reports,news reporting,positive
+prepare operational progress or status reports,sustainability reporting & esg metrics,positive
+prepare operational progress or status reports,ceramics,negative
+prepare operational progress or status reports,chemistry,negative
+"develop operating strategies, plans, or procedures",business strategy,positive
+"develop operating strategies, plans, or procedures",strategy implementation,positive
+"develop operating strategies, plans, or procedures",entomology,negative
+"develop operating strategies, plans, or procedures",linguistics,negative
+maintain data in information systems or databases,database administration,positive
+maintain data in information systems or databases,database management,positive
+maintain data in information systems or databases,syntax,negative
+maintain data in information systems or databases,astronomy,negative
+establish organizational guidelines or policies,policy development,positive
+establish organizational guidelines or policies,icma principles and guidelines,positive
+establish organizational guidelines or policies,geology,negative
+establish organizational guidelines or policies,ecology,negative
+determine causes of operational problems or failures,troubleshooting,positive
+determine causes of operational problems or failures,advanced troubleshooting,positive
+determine causes of operational problems or failures,screenwriting,negative
+determine causes of operational problems or failures,geography,negative
+monitor the productivity or efficiency of industrial operations,productivity,positive
+monitor the productivity or efficiency of industrial operations,personal productivity,positive
+monitor the productivity or efficiency of industrial operations,sociology,negative
+monitor the productivity or efficiency of industrial operations,economics,negative
+"purchase materials, equipment, or other resources",procurement,positive
+"purchase materials, equipment, or other resources",procurement contracts,positive
+"purchase materials, equipment, or other resources",statistics,negative
+"purchase materials, equipment, or other resources",classical music,negative
+maintain test equipment,concept testing,positive
+maintain test equipment,test-driven development,positive
+maintain test equipment,database optimization,negative
+maintain test equipment,understand consumer insights from social media messages,negative
+identify opportunities for green initiatives,interpret eps data analyze its implications for investors and other stakeholders identify factors that may impact eps calculations and calculate both basic and diluted eps using relevant financial data,positive
+identify opportunities for green initiatives,identify and describe the various components of shareholders' equity and be able to interpret and analyze equity-related information in financial statements effectively including the principles and procedures related to share-based compensation,positive
+identify opportunities for green initiatives,processor design,negative
+identify opportunities for green initiatives,set up a youtube channel,negative
+install production equipment or systems,energy systems principles,positive
+install production equipment or systems,healthcare systems analysis,positive
+install production equipment or systems,wordpress,negative
+install production equipment or systems,task estimation,negative
+"explain engineering drawings, specifications, or other technical information",mechanical engineering,positive
+"explain engineering drawings, specifications, or other technical information",material engineering,positive
+"explain engineering drawings, specifications, or other technical information",future forecasting,negative
+"explain engineering drawings, specifications, or other technical information",aws database,negative
+analyze green technology design requirements,marketing design,positive
+analyze green technology design requirements,computer-aided design (cad),positive
+analyze green technology design requirements,p values,negative
+analyze green technology design requirements,restconf,negative
+program robotic equipment,midi programming,positive
+program robotic equipment,r programming,positive
+program robotic equipment,interpretation,negative
+program robotic equipment,camera model,negative
+direct facility maintenance or repair activities,classify cash flow activities into operating investing and financing activities and define the indirect and direct methods of calculating cash flows from operating activities,positive
+direct facility maintenance or repair activities,hybrid learning activities,positive
+direct facility maintenance or repair activities,analytic mindset,negative
+direct facility maintenance or repair activities,hardware planning,negative
+implement transportation changes to reduce environmental impact,recognize different types of accounting changes e.g. changes in principle estimate and error corrections and demonstrate how to apply retrospective and prospective approaches when dealing with accounting changes,positive
+implement transportation changes to reduce environmental impact,ability to analyze and interpret the financial impact of different liability transactions on the financial position and performance of a company,positive
+implement transportation changes to reduce environmental impact,mathematics,negative
+implement transportation changes to reduce environmental impact,cybersecurity threats,negative
+estimate technical or resource requirements for development or production projects,marketing strategy development,positive
+estimate technical or resource requirements for development or production projects,product development,positive
+estimate technical or resource requirements for development or production projects,password,negative
+estimate technical or resource requirements for development or production projects,use the rest api explorer,negative
+interpret design or operational test results,product design processes,positive
+interpret design or operational test results,unit testing,positive
+interpret design or operational test results,network cryptography,negative
+interpret design or operational test results,assessing your balance,negative

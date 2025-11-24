@@ -1,0 +1,3 @@
+pipeline_expected,basename,path_rel,abs_path,MODEL,PRESET,nDCG@10,MAP@10,R@1,MRR,THRESHOLD
+_dwa,winner.txt,winner.txt,/Users/jpardo/Desktop/Proyectos/AI4LABOUR/mejoras/results_dwa1/winner.txt,sentence_transformers_all_distilroberta_v1,C_lex_sem_strong,0.6197,0.3533,0.1923,0.5422,1.186409
+_coursera,winner.txt,winner.txt,/Users/jpardo/Desktop/Proyectos/AI4LABOUR/mejoras/results_coursera1/winner.txt,sentence-transformers/paraphrase-MiniLM-L3-v2,E_diversity,0.2597,0.1924,0.1047,0.2890,1.000000

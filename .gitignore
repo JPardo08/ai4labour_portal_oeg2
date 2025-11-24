@@ -1,9 +1,8 @@
-# Ignorar archivos de datos grandes
-*.csv
+# Ignorar archivos comprimidos
 *.zip
 *.tar.gz
 
-# O si quieres ignorar solo las carpetas especificas:
-analisis/key_tables/neighbors_all/
-results_dwa2/
-results_coursera2/
+# Archivos CSV gigantes que bloquean la subida (>100MB)
+analisis/key_tables/neighbors_all/neighbors_all_long__ALL1.csv
+analisis/key_tables/neighbors_all/neighbors_all_long__ALL2.csv
+analisis/key_tables/neighbors_all/neighbors_all_long__coursera_2.csv

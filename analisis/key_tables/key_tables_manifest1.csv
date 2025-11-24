@@ -1,0 +1,7 @@
+container,pipeline,artifact_type,basename,rel_path,status,n_rows,n_cols,mtime,size_bytes
+results_coursera1,coursera,neighbors_all_long,neighbors_coursera_all_long_dwa_cb25d773_skill_1edbbb05.csv,neighbors_coursera_all_long_dwa_cb25d773_skill_1edbbb05.csv,OK,176800,21,2025-09-17 15:11:12,43426274
+results_dwa1,dwa,neighbors_all_long,neighbors_all_long_n221.csv,neighbors_all_long_n221.csv,OK,176767,21,2025-09-17 14:27:14,43029246
+results_coursera1,coursera,ranking_summary,ranking_summary_coursera_dwa_cb25d773_skill_1edbbb05.csv,ranking_summary_coursera_dwa_cb25d773_skill_1edbbb05.csv,OK,320,18,2025-09-17 15:11:16,65797
+results_dwa1,dwa,ranking_summary,ranking_summary_n221.csv,ranking_summary_n221.csv,OK,320,18,2025-09-17 14:27:16,64953
+results_coursera1,coursera,threshold_sweep,threshold_sweep_coursera_dwa_cb25d773_skill_1edbbb05.csv,threshold_sweep_coursera_dwa_cb25d773_skill_1edbbb05.csv,OK,3280,14,2025-09-17 15:11:18,400432
+results_dwa1,dwa,threshold_sweep,threshold_sweep_n221.csv,threshold_sweep_n221.csv,OK,7280,16,2025-09-17 14:27:16,1155570

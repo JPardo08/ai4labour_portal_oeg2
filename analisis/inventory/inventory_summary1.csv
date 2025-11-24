@@ -1,0 +1,12 @@
+artifact_type,count_dwa,count_coursera,missing_in_dwa,missing_in_coursera
+ranking_summary,1,1,False,False
+threshold_sweep,1,1,False,False
+best_thresholds,1,1,False,False
+neighbors_all_long,1,1,False,False
+neighbors,80,80,False,False
+winner,1,1,False,False
+tp,1,1,False,False
+fp,1,1,False,False
+fn,1,1,False,False
+near_threshold,1,1,False,False
+plots,19,18,False,False

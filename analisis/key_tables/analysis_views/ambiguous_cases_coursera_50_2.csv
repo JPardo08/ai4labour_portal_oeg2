@@ -1,0 +1,13 @@
+model,score_top1,score_top2,margin_top1_top2
+sentence-transformers/paraphrase-albert-small-v2,1.6034743356704713,1.6018924283981324,0.0015819072723388672
+sentence-transformers/sentence-t5-base,1.7362238931655884,1.7217651176452635,0.014458775520324929
+/home/jovyan/Joel_Pardo/AI4LABOUR/Mejoras/results_coursera/models/simcse_coursera_hard/sentence-transformers/all-MiniLM-L6-v2,1.5279773044586182,1.5134743022918702,0.014503002166748047
+/home/jovyan/Joel_Pardo/AI4LABOUR/Mejoras/results_coursera/models/simcse_coursera_sup/sentence-transformers/all-MiniLM-L6-v2,1.6150269079208377,1.5993777084350589,0.01564919948577881
+/home/jovyan/Joel_Pardo/AI4LABOUR/Mejoras/results_coursera/models/tsdae_coursera/google-bert/bert-base-uncased,1.695687608718872,1.678294496536255,0.017393112182616965
+embedding-data/deberta-sentence-transformer,1.773888783454895,1.751745777130127,0.022143006324768066
+sentence-transformers/all-MiniLM-L6-v2,1.6523561048507691,1.621450500488281,0.030905604362488015
+/home/jovyan/Joel_Pardo/AI4LABOUR/Mejoras/results_coursera/models/simcse_coursera_base/sentence-transformers/all-MiniLM-L6-v2,1.5788068342208863,1.5437274742126466,0.035079360008239746
+sentence-transformers/paraphrase-MiniLM-L3-v2,1.6859855222702027,1.6416589784622193,0.0443265438079834
+sentence-transformers/distiluse-base-multilingual-cased-v2,1.624393301010132,1.577835636138916,0.04655766487121582
+sentence-transformers/all-mpnet-base-v2,1.661297516822815,1.5916393566131593,0.06965816020965576
+sentence-transformers/all-distilroberta-v1,1.6358656454086304,1.5496617126464844,0.086203932762146

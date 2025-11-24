@@ -1,0 +1,177 @@
+query_text,cand_text,label
+train personnel on proper operational procedures,conduct employee training programs,positive
+train personnel on proper operational procedures,instruct college students in physical or life sciences,positive
+train personnel on proper operational procedures,prepare proposal documents,negative
+train personnel on proper operational procedures,"purchase materials, equipment, or other resources",negative
+prepare procedural documents,document organizational or operational procedures,positive
+prepare procedural documents,"prepare contracts, disclosures, or applications",positive
+prepare procedural documents,operate industrial equipment,negative
+prepare procedural documents,recruit personnel,negative
+design medical devices or appliances,design electromechanical equipment or systems,positive
+design medical devices or appliances,design industrial equipment,positive
+design medical devices or appliances,direct operational or production activities,negative
+design medical devices or appliances,supervise employees,negative
+conduct environmental audits,monitor activities affecting environmental quality,positive
+conduct environmental audits,analyze environmental regulations to ensure organizational compliance,positive
+conduct environmental audits,"direct sales, marketing, or customer service activities",negative
+conduct environmental audits,"interview employees, customers, or others to collect information",negative
+develop operational methods or processes that use green materials or emphasize sustainability,develop sustainable business strategies or practices,positive
+develop operational methods or processes that use green materials or emphasize sustainability,implement transportation changes to reduce environmental impact,positive
+develop operational methods or processes that use green materials or emphasize sustainability,manage human resources activities,negative
+develop operational methods or processes that use green materials or emphasize sustainability,fabricate devices or components,negative
+estimate operational costs,estimate labor requirements,positive
+estimate operational costs,estimate time requirements for development or production projects,positive
+estimate operational costs,research genetic characteristics or expression,negative
+estimate operational costs,install production equipment or systems,negative
+supervise engineering or other technical personnel,supervise production or support personnel,positive
+supervise engineering or other technical personnel,supervise scientific or technical personnel,positive
+supervise engineering or other technical personnel,prepare financial documents,negative
+supervise engineering or other technical personnel,analyze chemical compounds or substances,negative
+research engineering aspects of biological or chemical processes,research microbiological or chemical processes or structures,positive
+research engineering aspects of biological or chemical processes,research engineering applications of emerging technologies,positive
+research engineering aspects of biological or chemical processes,manage inventories of products or organizational resources,negative
+research engineering aspects of biological or chemical processes,negotiate labor disputes,negative
+develop software or computer applications,develop business or financial information systems,positive
+develop software or computer applications,program robotic equipment,positive
+develop software or computer applications,hire personnel,negative
+develop software or computer applications,administer standardized physical or psychological tests,negative
+evaluate quality of materials or products,test quality of materials or finished products,positive
+evaluate quality of materials or products,inspect finished products to locate flaws,positive
+evaluate quality of materials or products,"direct organizational operations, projects, or services",negative
+evaluate quality of materials or products,perform marketing activities,negative
+"recommend technical design or process changes to improve efficiency, quality, or performance",recommend organizational process or policy changes,positive
+"recommend technical design or process changes to improve efficiency, quality, or performance",research human performance or health factors related to engineering or design activities,positive
+"recommend technical design or process changes to improve efficiency, quality, or performance",analyze logistics processes,negative
+"recommend technical design or process changes to improve efficiency, quality, or performance",research diseases or parasites,negative
+confer with technical personnel to prepare designs or operational plans,evaluate technical data to determine effect on designs or plans,positive
+confer with technical personnel to prepare designs or operational plans,confer with other personnel to resolve design or operational problems,positive
+confer with technical personnel to prepare designs or operational plans,devise research or testing protocols,negative
+confer with technical personnel to prepare designs or operational plans,direct industrial production activities,negative
+"communicate technical information to suppliers, contractors, or regulatory agencies","explain engineering drawings, specifications, or other technical information",positive
+"communicate technical information to suppliers, contractors, or regulatory agencies","coordinate activities with suppliers, contractors, clients, or other departments",positive
+"communicate technical information to suppliers, contractors, or regulatory agencies",approve expenditures,negative
+"communicate technical information to suppliers, contractors, or regulatory agencies",research industrial processes or operations,negative
+develop technical methods or processes,develop technical specifications for systems or equipment,positive
+develop technical methods or processes,develop specifications for new products or processes,positive
+develop technical methods or processes,prepare operational budgets,negative
+develop technical methods or processes,advise others on logistics topics,negative
+create models of engineering designs or methods,research advanced engineering designs or applications,positive
+create models of engineering designs or methods,create physical models or prototypes,positive
+create models of engineering designs or methods,perform human resources activities,negative
+create models of engineering designs or methods,represent the organization in external relations,negative
+maintain operational records or records systems,monitor facilities or operational systems,positive
+maintain operational records or records systems,maintain personnel records,positive
+maintain operational records or records systems,assist engineers or scientists with research,negative
+maintain operational records or records systems,develop biological research methods,negative
+prepare detailed work plans,review technical documents to plan work,positive
+prepare detailed work plans,prepare technical reports for internal use,positive
+prepare detailed work plans,maintain laboratory or technical equipment,negative
+prepare detailed work plans,operate laboratory or field equipment,negative
+update technical knowledge,review details of technical drawings or specifications,positive
+update technical knowledge,provide technical guidance to other personnel,positive
+update technical knowledge,direct facility maintenance or repair activities,negative
+update technical knowledge,direct equipment maintenance or repair activities,negative
+evaluate characteristics of equipment or systems,"test performance of electrical, electronic, mechanical, or integrated systems or equipment",positive
+evaluate characteristics of equipment or systems,design control systems for mechanical or other equipment,positive
+evaluate characteristics of equipment or systems,research design or application of green technologies,negative
+evaluate characteristics of equipment or systems,"manage operations, research, or logistics projects",negative
+advise customers on the use of products or services,prepare drawings or diagrams of products or services,positive
+advise customers on the use of products or services,negotiate sales or lease agreements for products or services,positive
+advise customers on the use of products or services,manage scientific or technical project resources,negative
+advise customers on the use of products or services,set up laboratory or field equipment,negative
+"analyze operational data to evaluate operations, processes or products",analyze data to assess operational or project effectiveness,positive
+"analyze operational data to evaluate operations, processes or products",conduct quantitative failure analyses of operational data,positive
+"analyze operational data to evaluate operations, processes or products",administer compensation or benefits programs,negative
+"analyze operational data to evaluate operations, processes or products",research methods to improve food products,negative
+"develop operating strategies, plans, or procedures",develop organizational goals or objectives,positive
+"develop operating strategies, plans, or procedures",develop organizational methods or procedures,positive
+"develop operating strategies, plans, or procedures",repair electronic equipment,negative
+"develop operating strategies, plans, or procedures",analyze biological samples,negative
+direct quality control activities,evaluate designs or specifications to ensure quality,positive
+direct quality control activities,test products for functionality or quality,positive
+direct quality control activities,advise customers on technical or procedural issues,negative
+direct quality control activities,write grant proposals,negative
+document technical design details,document design or operational test results,positive
+document technical design details,prepare scientific or technical reports or presentations,positive
+document technical design details,respond to emergencies to provide assistance,negative
+document technical design details,select project materials,negative
+determine operational methods,determine operational criteria or specifications,positive
+determine operational methods,determine design criteria or specifications,positive
+determine operational methods,apply mathematical models of financial or business conditions,negative
+determine operational methods,advise others on career or personal development,negative
+prepare reports related to compliance matters,maintain regulatory or compliance documentation,positive
+prepare reports related to compliance matters,review documents or materials for compliance with policies or regulations,positive
+prepare reports related to compliance matters,assemble mechanical components or machine parts,negative
+prepare reports related to compliance matters,plan facility layouts or designs,negative
+"select tools, equipment, or technologies for use in operations or projects","evaluate potential of products, technologies, or resources",positive
+"select tools, equipment, or technologies for use in operations or projects",analyze design or requirements information for mechanical equipment or systems,positive
+"select tools, equipment, or technologies for use in operations or projects",develop business or market strategies,negative
+"select tools, equipment, or technologies for use in operations or projects",monitor external affairs or events affecting business operations,negative
+test characteristics of materials or structures,analyze test or validation data,positive
+test characteristics of materials or structures,conduct validation tests of equipment or processes,positive
+test characteristics of materials or structures,advise others regarding green practices or environmental concerns,negative
+test characteristics of materials or structures,schedule operational activities,negative
+analyze costs and benefits of proposed designs or projects,evaluate plans or specifications to determine technological or environmental implications,positive
+analyze costs and benefits of proposed designs or projects,analyze green technology design requirements,positive
+analyze costs and benefits of proposed designs or projects,maintain test equipment,negative
+analyze costs and benefits of proposed designs or projects,"maintain inventories of materials, equipment, or products",negative
+determine causes of operational problems or failures,"investigate system, equipment, or product failures",positive
+determine causes of operational problems or failures,monitor operational procedures in technical environments to ensure conformance to standards,positive
+determine causes of operational problems or failures,advise others on legal or regulatory compliance matters,negative
+determine causes of operational problems or failures,prepare operational reports,negative
+analyze data to inform operational decisions or activities,analyze data to inform personnel decisions,positive
+analyze data to inform operational decisions or activities,evaluate environmental impact of operational or development activities,positive
+analyze data to inform operational decisions or activities,communicate organizational policies and procedures,negative
+analyze data to inform operational decisions or activities,design industrial processing systems,negative
+assemble equipment or components,calibrate scientific or technical equipment,positive
+assemble equipment or components,design electronic or computer equipment or instrumentation,positive
+assemble equipment or components,compile operational data,negative
+assemble equipment or components,confer with organizational members to accomplish work activities,negative
+assess product or process usefulness,implement design or process improvements,positive
+assess product or process usefulness,implement organizational process or policy changes,positive
+assess product or process usefulness,coordinate with external parties to exchange information,negative
+assess product or process usefulness,create graphical representations of industrial production systems,negative
+"assess the cost effectiveness of products, projects, or services",investigate the environmental impact of projects,positive
+"assess the cost effectiveness of products, projects, or services",estimate costs of goods or services,positive
+"assess the cost effectiveness of products, projects, or services",design research studies to obtain scientific information,negative
+"assess the cost effectiveness of products, projects, or services",develop procedures to evaluate organizational activities,negative
+coordinate safety or regulatory compliance activities,direct design or development activities,positive
+coordinate safety or regulatory compliance activities,coordinate special events or programs,positive
+coordinate safety or regulatory compliance activities,create graphical representations of mechanical equipment,negative
+coordinate safety or regulatory compliance activities,evaluate employee performance,negative
+"cultivate micro-organisms for study, testing, or medical preparations",prepare compounds or solutions for products or testing,positive
+"cultivate micro-organisms for study, testing, or medical preparations",prepare biological samples for testing or analysis,positive
+"cultivate micro-organisms for study, testing, or medical preparations",design environmental control systems,negative
+"cultivate micro-organisms for study, testing, or medical preparations",direct installation activities,negative
+design structures or facilities,interpret design or operational test results,positive
+design structures or facilities,inspect condition or functioning of facilities or equipment,positive
+design structures or facilities,evaluate logistics methods to reduce environmental impact,negative
+design structures or facilities,identify new applications for existing technologies,negative
+establish organizational guidelines or policies,develop sustainable organizational policies or practices,positive
+establish organizational guidelines or policies,monitor performance of organizational members or partners,positive
+establish organizational guidelines or policies,identify opportunities for green initiatives,negative
+establish organizational guidelines or policies,identify opportunities to improve operational efficiency,negative
+estimate technical or resource requirements for development or production projects,estimate cost or material requirements,positive
+estimate technical or resource requirements for development or production projects,monitor environmental impacts of production or development activities,positive
+estimate technical or resource requirements for development or production projects,inspect operational processes,negative
+estimate technical or resource requirements for development or production projects,maintain electromechanical equipment,negative
+collaborate with others to develop or refine designs,collaborate on research activities with scientists or technical specialists,positive
+collaborate with others to develop or refine designs,develop new or advanced products or production methods,positive
+collaborate with others to develop or refine designs,inspect condition of natural environments,negative
+collaborate with others to develop or refine designs,maintain knowledge of current developments in area of expertise,negative
+monitor organizational procedures to ensure proper functioning,monitor the productivity or efficiency of industrial operations,positive
+monitor organizational procedures to ensure proper functioning,monitor processes for compliance with standards,positive
+monitor organizational procedures to ensure proper functioning,classify organisms based on their characteristics or behavior,negative
+monitor organizational procedures to ensure proper functioning,design energy-efficient vehicles or vehicle components,negative
+install production equipment or systems,fabricate products or components using machine tools,positive
+install production equipment or systems,inspect facilities or sites to determine if they meet specifications or standards,positive
+install production equipment or systems,communicate organizational information to customers or other stakeholders,negative
+install production equipment or systems,"analyze jobs using observation, survey, or interview techniques",negative
+maintain data in information systems or databases,operate computer systems,positive
+maintain data in information systems or databases,prepare operational progress or status reports,positive
+maintain data in information systems or databases,"negotiate contracts for transportation, distribution, or logistics services",negative
+maintain data in information systems or databases,collect samples of raw materials or finished products,negative
+investigate industrial or transportation accidents,resolve operational performance problems,positive
+investigate industrial or transportation accidents,"establish standards for products, processes, or procedures",positive
+investigate industrial or transportation accidents,liaise between departments or other groups to improve function or communication,negative
+investigate industrial or transportation accidents,evaluate new technologies or methods,negative

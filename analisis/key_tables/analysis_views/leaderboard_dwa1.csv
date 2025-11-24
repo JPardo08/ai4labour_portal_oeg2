@@ -1,0 +1,11 @@
+model,preset,PRIMARY_METRIC,MRR,_source_basename,_source_container,_source_mtime,_primary_metric_name
+sentence_transformers_all_distilroberta_v1,C_lex_sem_strong,0.6196685904922768,0.5421652421652422,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k
+sentence_transformers_all_mpnet_base_v2,I_short_skills_bias,0.6151003145548793,0.5278388278388279,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k
+sentence_transformers_all_distilroberta_v1,J_char_heavy,0.6121633029644371,0.5323361823361823,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k
+sentence_transformers_all_mpnet_base_v2,D_zfilter,0.6108549589232826,0.5254578754578755,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k
+sentence_transformers_all_mpnet_base_v2,E_diversity,0.6089999653934238,0.5453296703296703,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k
+sentence_transformers_all_distilroberta_v1,I_short_skills_bias,0.608881266797261,0.5327228327228327,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k
+sentence_transformers_all_distilroberta_v1,G_mnn_heavy,0.6067952542327223,0.5190476190476191,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k
+sentence_transformers_sentence_t5_base,H_zfilter,0.6065990467831611,0.5493589743589745,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k
+sentence_transformers_all_mpnet_base_v2,H_zfilter,0.6063429035724466,0.5403846153846154,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k
+sentence_transformers_all_mpnet_base_v2,C_lex_sem_strong,0.60136023567574,0.5257733007733008,ranking_summary_n221.csv,results_dwa1,2025-09-17 14:27:16,nDCG@k

@@ -1,0 +1,3 @@
+pipeline_expected,basename,path_rel,abs_path,MODEL,PRESET,nDCG@10,MAP@10,R@1,MRR,THRESHOLD
+_dwa,winner.txt,winner.txt,/Users/jpardo/Desktop/Proyectos/AI4LABOUR/mejoras/results_dwa2/winner.txt,home_jovyan_Joel_Pardo_AI4LABOUR_Mejoras_results_models_simcse_coursera_sup_sentence_transformers_all_MiniLM_L6_v2,E_diversity,0.6310,0.4376,0.1795,0.5693,1.290044
+_coursera,winner.txt,winner.txt,/Users/jpardo/Desktop/Proyectos/AI4LABOUR/mejoras/results_coursera2/winner.txt,sentence-transformers/paraphrase-MiniLM-L3-v2,E_diversity,0.2597,0.1924,0.1047,0.2890,1.000000
