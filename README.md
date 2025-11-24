@@ -13,6 +13,10 @@ The **AI4LABOUR Portal** is a European project that aims to predict which job po
 
 ## Architecture
 
+### System Diagram
+
+![AI4LABOUR Portal Architecture](ai4labour_base.drawio.svg)
+
 ### Main Components
 
 #### 1. **Web Application (Streamlit Portal)**
@@ -265,7 +269,7 @@ The `eerr/` directory contains SQL queries and notebooks for extracting data fro
 
 See `LICENSE` file for details.
 
-## Contributing
+## Funding
 
 This project has received funding from the European Union’s Horizon2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No101007961.
 
