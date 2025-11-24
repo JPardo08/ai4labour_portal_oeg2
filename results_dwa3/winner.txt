@@ -1,0 +1,7 @@
+MODEL=home_jovyan_Joel_Pardo_AI4LABOUR_Mejoras_results_models_simcse_coursera_sup_sentence_transformers_all_MiniLM_L6_v2
+PRESET=E_diversity
+nDCG@10=0.6310
+MAP@10=0.4376
+R@1=0.1795
+MRR=0.5693
+THRESHOLD=1.290044

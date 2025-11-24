@@ -1,0 +1,862 @@
+{
+  "train personnel on proper operational procedures": {
+    "positives": [
+      "instructional design", 
+      "leadership"
+    ],
+    "negatives": [
+      "application security",
+      "network defensive tactics"
+    ]
+  },
+  "prepare procedural documents": {
+    "positives": [
+      "process improvement",
+      "project management"
+    ],
+    "negatives": [
+      "cybersecurity",
+      "threat intelligence"
+    ]
+  },
+  "recommend technical design or process changes to improve efficiency, quality, or performance": {
+    "positives": [
+      "systems design",
+      "six sigma"
+    ],
+    "negatives": [
+      "digital marketing",
+      "social media marketing"
+    ]
+  },
+  "confer with technical personnel to prepare designs or operational plans": {
+    "positives": [
+      "collaboration",
+      "engineering design"
+    ],
+    "negatives": [
+      "customer service",
+      "accounting"
+    ]
+  },
+  "communicate technical information to suppliers, contractors, or regulatory agencies": {
+    "positives": [
+      "financial analysis",
+      "cost accounting"
+    ],
+    "negatives": [
+      "public health",
+      "psychology"
+    ]
+  },
+  "design medical devices or appliances": {
+    "positives": [
+      "python programming",
+      "software development"
+    ],
+    "negatives": [
+      "5g",
+      "biology"
+    ]
+  },
+  "research engineering aspects of biological or chemical processes": {
+    "positives": [
+      "chemical engineering",
+      "engineering"
+    ],
+    "negatives": [
+      "ai/ml",
+      "graphic design"
+    ]
+  },
+  "devise research or testing protocols": {
+    "positives": [
+      "a/b testing",
+      "a/b/n testing"
+    ],
+    "negatives": [
+      "c++",
+      "art history"
+    ]
+  },
+  "develop operational methods or processes that use green materials or emphasize sustainability": {
+    "positives": [
+      "raw materials and processes",
+      "develop communication processes during change management planning"
+    ],
+    "negatives": [
+      "neuroscience",
+      "c++11"
+    ]
+  },
+  "develop technical methods or processes": {
+    "positives": [
+      "methods",
+      "2.5d and 3d integration methods"
+    ],
+    "negatives": [
+      "financial markets",
+      "c/c++"
+    ]
+  },
+  "create models of engineering designs or methods": {
+    "positives": [
+      "assembly methods",
+      "attention models"
+    ],
+    "negatives": [
+      "security analyst",
+      "cyberattacks"
+    ]
+  },
+  "maintain operational records or records systems": {
+    "positives": [
+      "pv systems",
+      "control systems"
+    ],
+    "negatives": [
+      "network security",
+      "threat"
+    ]
+  },
+  "estimate operational costs": {
+    "positives": [
+      "cost estimate",
+      "sunk costs"
+    ],
+    "negatives": [
+      "security",
+      "governance"
+    ]
+  },
+  "prepare detailed work plans": {
+    "positives": [
+      "prepare a detailed sales call plan",
+      "prepare data"
+    ],
+    "negatives": [
+      "business analytics",
+      "entrepreneurship"
+    ]
+  },
+  "prepare technical reports for internal use": {
+    "positives": [
+      "reports",
+      "design reports"
+    ],
+    "negatives": [
+      "emotional intelligence",
+      "customer relationship management (crm)"
+    ]
+  },
+  "prepare contracts, disclosures, or applications": {
+    "positives": [
+      "contracts",
+      "back-end applications"
+    ],
+    "negatives": [
+      "communication",
+      "bargaining"
+    ]
+  },
+  "update technical knowledge": {
+    "positives": [
+      "gst technical",
+      "it skills and knowledge"
+    ],
+    "negatives": [
+      "negotiation",
+      "income statement analysis"
+    ]
+  },
+  "evaluate characteristics of equipment or systems": {
+    "positives": [
+      "ar characteristics",
+      "defining systems"
+    ],
+    "negatives": [
+      "balance sheet",
+      "financial terminology"
+    ]
+  },
+  "evaluate quality of materials or products": {
+    "positives": [
+      "quality management",
+      "quality assessment"
+    ],
+    "negatives": [
+      "content marketing",
+      "public speaking"
+    ]
+  },
+  "test products for functionality or quality": {
+    "positives": [
+      "nondestructive testing (ndt)",
+      "software testing"
+    ],
+    "negatives": [
+      "nutrition",
+      "photography"
+    ]
+  },
+  "conduct validation tests of equipment or processes": {
+    "positives": [
+      "validation",
+      "system testing"
+    ],
+    "negatives": [
+      "creative writing",
+      "music theory"
+    ]
+  },
+  "analyze test or validation data": {
+    "positives": [
+      "statistical analysis",
+      "data analysis"
+    ],
+    "negatives": [
+      "public relations",
+      "b2b sales"
+    ]
+  },
+  "analyze operational data to evaluate operations, processes or products": {
+    "positives": [
+      "data visualization (dataviz)",
+      "exploratory data analysis"
+    ],
+    "negatives": [
+      "brand identity and management",
+      "social media analytics"
+    ]
+  },
+  "design industrial processing systems": {
+    "positives": [
+      "process control",
+      "statistical process control (spc)"
+    ],
+    "negatives": [
+      "copywriting",
+      "storytelling"
+    ]
+  },
+  "create physical models or prototypes": {
+    "positives": [
+      "rapid prototyping",
+      "3d printing"
+    ],
+    "negatives": [
+      "financial accounting",
+      "history"
+    ]
+  },
+  "evaluate environmental impact of operational or development activities": {
+    "positives": [
+      "environmental impact assessment",
+      "air quality monitoring"
+    ],
+    "negatives": [
+      "retail management",
+      "brand management"
+    ]
+  },
+  "prepare scientific or technical reports or presentations": {
+    "positives": [
+      "report building",
+      "dashboarding and reporting"
+    ],
+    "negatives": [
+      "music production",
+      "philosophy of science"
+    ]
+  },
+  "conduct environmental audits": {
+    "positives": [
+      "environmental impacts",
+      "sustainability"
+    ],
+    "negatives": [
+      "teaching creative writing",
+      "literature"
+    ]
+  },
+  "maintain regulatory or compliance documentation": {
+    "positives": [
+      "data documentation",
+      "compliance"
+    ],
+    "negatives": [
+      "shakespeare",
+      "appreciate richness of shakespearean language"
+    ]
+  },
+  "prepare operational reports": {
+    "positives": [
+      "data reporting",
+      "reports and dashboards"
+    ],
+    "negatives": [
+      "guitar scales",
+      "guitar chords"
+    ]
+  },
+  "supervise employees": {
+    "positives": [
+      "leadership development",
+      "leadership and management"
+    ],
+    "negatives": [
+      "guitar",
+      "playing guitar"
+    ]
+  },
+  "prepare operational budgets": {
+    "positives": [
+      "capital budgeting",
+      "budgeting techniques for cost and profit centers"
+    ],
+    "negatives": [
+      "piano",
+      "piano performance"
+    ]
+  },
+  "analyze data to inform operational decisions or activities": {
+    "positives": [
+      "business intelligence",
+      "data-driven decision making"
+    ],
+    "negatives": [
+      "illustration",
+      "digital fashion design"
+    ]
+  },
+  "coordinate safety or regulatory compliance activities": {
+    "positives": [
+      "risk management",
+      "food safety"
+    ],
+    "negatives": [
+      "3d fashion design",
+      "on-demand fashion design"
+    ]
+  },
+  "design control systems for mechanical or other equipment": {
+    "positives": [
+      "pid control",
+      "automation"
+    ],
+    "negatives": [
+      "cooking vegetables in ways that will delight",
+      "cooking"
+    ]
+  },
+  "direct installation activities": {
+    "positives": [
+      "verify an ansible installation",
+      "electrical commissioning"
+    ],
+    "negatives": [
+      "psychotherapy",
+      "mindfulness"
+    ]
+  },
+  "administer compensation or benefits programs": {
+    "positives": [
+      "compensation and benefits",
+      "compensation analysis"
+    ],
+    "negatives": [
+      ".bit",
+      ".net"
+    ]
+  },
+  "administer standardized physical or psychological tests": {
+    "positives": [
+      "acquire skills in generating a wide range of creative ideas and techniques that can be applied with safety to encourage innovative thinking and solution exploration",
+      "assessing ones level of anxiety (resilience and burnout) using self-assessment tests"
+    ],
+    "negatives": [
+      ".net architecture",
+      ".net core"
+    ]
+  },
+  "advise customers on technical or procedural issues": {
+    "positives": [
+      "analyzing technical and financial possibilities",
+      "designing rpa technical specification documents"
+    ],
+    "negatives": [
+      ".net framework",
+      "2-d arrays"
+    ]
+  },
+  "advise customers on the use of products or services": {
+    "positives": [
+      "5g services and architecture",
+      "amazon web services (amazon aws)"
+    ],
+    "negatives": [
+      "2d & 3d design",
+      "2d computer graphics"
+    ]
+  },
+  "advise others on career or personal development": {
+    "positives": [
+      "career development",
+      "personal development"
+    ],
+    "negatives": [
+      "360-degree video",
+      "3d computer graphics"
+    ]
+  },
+  "advise others on legal or regulatory compliance matters": {
+    "positives": [
+      "legal compliance",
+      "regulatory compliance"
+    ],
+    "negatives": [
+      "3d modeling",
+      "4g technology"
+    ]
+  },
+  "advise others on logistics topics": {
+    "positives": [
+      "communicating with others in person",
+      "distribution and logistics"
+    ],
+    "negatives": [
+      "4th amendment",
+      "80/20 rule of social media"
+    ]
+  },
+  "advise others regarding green practices or environmental concerns": {
+    "positives": [
+      "greater understanding of environmental concerns",
+      "educational practices"
+    ],
+    "negatives": [
+      "a basic understanding of epidemiological theory",
+      "a basic understanding of matrices and probability"
+    ]
+  },
+  "research methods to improve food products": {
+    "positives": [
+      "big data products",
+      "food"
+    ],
+    "negatives": [
+      "robotic mapping",
+      "particle filter"
+    ]
+  },
+  "analyze logistics processes": {
+    "positives": [
+      "international logistics",
+      "logistics planning"
+    ],
+    "negatives": [
+      "linear scheduling method",
+      "finite-state machine"
+    ]
+  },
+  "test quality of materials or finished products": {
+    "positives": [
+      "materials",
+      "materials research"
+    ],
+    "negatives": [
+      "kotlin",
+      "hypothesis-driven development"
+    ]
+  },
+  "maintain knowledge of current developments in area of expertise": {
+    "positives": [
+      "expertise in data science",
+      "voltage and current sensors"
+    ],
+    "negatives": [
+      "understand how to identify customers who have predispositions but no desired behavior",
+      "calibration in machine learning models"
+    ]
+  },
+  "design structures or facilities": {
+    "positives": [
+      "graph data structures",
+      "organizational structures"
+    ],
+    "negatives": [
+      "r and rstudio",
+      "ticketing systems"
+    ]
+  },
+  "recommend organizational process or policy changes": {
+    "positives": [
+      "environmental policy",
+      "organizational change"
+    ],
+    "negatives": [
+      "earth economics",
+      "crt0"
+    ]
+  },
+  "assemble equipment or components": {
+    "positives": [
+      "components of gans",
+      "analyzing story components"
+    ],
+    "negatives": [
+      "jquery",
+      "confounding"
+    ]
+  },
+  "analyze data to assess operational or project effectiveness": {
+    "positives": [
+      "project",
+      "project operations"
+    ],
+    "negatives": [
+      "apposition",
+      "conditionals (computer science)"
+    ]
+  },
+  "evaluate employee performance": {
+    "positives": [
+      "performance",
+      "performance management"
+    ],
+    "negatives": [
+      "synchronous communication request-response model",
+      "externality"
+    ]
+  },
+  "fabricate devices or components": {
+    "positives": [
+      "mobile devices",
+      "display devices"
+    ],
+    "negatives": [
+      "interacting with github",
+      "medical billing"
+    ]
+  },
+  "research industrial processes or operations": {
+    "positives": [
+      "research",
+      "ux research"
+    ],
+    "negatives": [
+      "luxury goods",
+      "marketing supply chain finance services"
+    ]
+  },
+  "design energy-efficient vehicles or vehicle components": {
+    "positives": [
+      "electric vehicles",
+      "laptop and mobile components" 
+    ],
+    "negatives": [
+      "microservice architecture",
+      "survivorship"
+    ]
+  },
+  "identify opportunities to improve operational efficiency": {
+    "positives": [
+      "explain the concept of blank space to identify opportunities",
+      "market efficiency"
+    ],
+    "negatives": [
+      "big data transmission",
+      "loan"
+    ]
+  },
+  "collect samples of raw materials or finished products": {
+    "positives": [
+      "materials safety",
+      "materials planning"
+    ],
+    "negatives": [
+      "real-time tracing",
+      "computational thinking"
+    ]
+  },
+  "manage inventories of products or organizational resources": {
+    "positives": [
+      "natural resources",
+      "human resources (hr)"
+    ],
+    "negatives": [
+      "system operation",
+      "red hat linux"
+    ]
+  },
+  "prepare reports related to compliance matters": {
+    "positives": [
+      "sez compliance",
+      "safety compliance"
+    ],
+    "negatives": [
+      "digital circuit design",
+      "health equity"
+    ]
+  },
+  "direct operational or production activities": {
+    "positives": [
+      "video production",
+      "video pre-production"
+    ],
+    "negatives": [
+      "financial statement use and analysis",
+      "financial ratio analysis"
+    ]
+  },
+  "respond to emergencies to provide assistance": {
+    "positives": [
+      "psychological first aid",
+      "incident response playbooks"
+    ],
+    "negatives": [
+      "strategic planning",
+      "vision statement development"
+    ]
+  },
+  "monitor external affairs or events affecting business operations": {
+    "positives": [
+      "business culture analysis",
+      "operations management"
+    ],
+    "negatives": [
+      "customer value proposition (cvp) development",
+      "strategic pricing"
+    ]
+  },
+  "direct sales, marketing, or customer service activities": {
+    "positives": [
+      "sales management",
+      "marketing management"
+    ],
+    "negatives": [
+      "competitive advantage analysis",
+      "competitive analysis"
+    ]
+  },
+  "direct organizational operations, projects, or services": {
+    "positives": [
+      "services based interfaces and architecture (sbi/sba)",
+      "how organizational leaders are ultimately accountable for meeting commitments"
+    ],
+    "negatives": [
+      "financial management",
+      "cash flow cycle analysis"
+    ]
+  },
+  "monitor organizational procedures to ensure proper functioning": {
+    "positives": [
+      "principles and procedures related to share-based compensation",
+      "accounting organizational skills"
+    ],
+    "negatives": [
+      "cash flow forecast analysis",
+      "market research"
+    ]
+  },
+  "confer with organizational members to accomplish work activities": {
+    "positives": [
+      "stakeholder communication",
+      "digital collaboration"
+    ],
+    "negatives": [
+      "value proposition analysis",
+      "process management"
+    ]
+  },
+  "manage control system activities in organizations": {
+    "positives": [
+      "manufacturing process management",
+      "mobility management"
+    ],
+    "negatives": [
+      "funding requirement analysis",
+      "funding applications"
+    ]
+  },
+  "maintain personnel records": {
+    "positives": [
+      "maintaining individual accountability",
+      "electronic health records"
+    ],
+    "negatives": [
+      "strategic financial planning",
+      "analytics"
+    ]
+  },
+  "negotiate sales or lease agreements for products or services": {
+    "positives": [
+      "contract negotiations",
+      "sales strategy"
+    ],
+    "negatives": [
+      "calculus",
+      "linear algebra"
+    ]
+  },
+  "develop specifications for new products or processes": {
+    "positives": [
+      "requirements analysis",
+      "requirements engineering"
+    ],
+    "negatives": [
+      "cartography",
+      "paleontology"
+    ]
+  },
+  "hire personnel": {
+    "positives": [
+      "recruitment",
+      "interviewing skills"
+    ],
+    "negatives": [
+      "philosophy",
+      "astrophysics"
+    ]
+  },
+  "prepare operational progress or status reports": {
+    "positives": [
+      "news reporting",
+      "sustainability reporting & esg metrics"
+    ],
+    "negatives": [
+      "ceramics",
+      "chemistry"
+    ]
+  },
+  "develop operating strategies, plans, or procedures": {
+    "positives": [
+      "business strategy",
+      "strategy implementation"
+    ],
+    "negatives": [
+      "entomology",
+      "linguistics"
+    ]
+  },
+  "maintain data in information systems or databases": {
+    "positives": [
+      "database administration",
+      "database management"
+    ],
+    "negatives": [
+      "syntax",
+      "astronomy"
+    ]
+  },
+  "establish organizational guidelines or policies": {
+    "positives": [
+      "policy development",
+      "icma principles and guidelines"
+    ],
+    "negatives": [
+      "geology",
+      "ecology"
+    ]
+  },
+  "determine causes of operational problems or failures": {
+    "positives": [
+      "troubleshooting",
+      "advanced troubleshooting"
+    ],
+    "negatives": [
+      "screenwriting",
+      "geography"
+    ]
+  },
+  "monitor the productivity or efficiency of industrial operations": {
+    "positives": [
+      "productivity",
+      "personal productivity"
+    ],
+    "negatives": [
+      "sociology",
+      "economics"
+    ]
+  },
+  "purchase materials, equipment, or other resources": {
+    "positives": [
+      "procurement",
+      "procurement contracts"
+    ],
+    "negatives": [
+      "statistics",
+      "classical music"
+    ]
+  },
+  "maintain test equipment": {
+    "positives": [
+      "concept testing",
+      "test-driven development"
+    ],
+    "negatives": [
+      "database optimization",
+      "understand consumer insights from social media messages"
+    ]
+  },
+  "install production equipment or systems": {
+    "positives": [
+      "energy systems principles",
+      "healthcare systems analysis"
+    ],
+    "negatives": [
+      "wordpress",
+      "task estimation"
+    ]
+  },
+  "explain engineering drawings, specifications, or other technical information": {
+    "positives": [
+      "mechanical engineering",
+      "material engineering"
+    ],
+    "negatives": [
+      "future forecasting",
+      "aws database"
+    ]
+  },
+  "analyze green technology design requirements": {
+    "positives": [
+      "marketing design",
+      "computer-aided design (cad)"
+    ],
+    "negatives": [
+      "p values",
+      "restconf"
+    ]
+  },
+  "program robotic equipment": {
+    "positives": [
+      "midi programming",
+      "r programming"
+    ],
+    "negatives": [
+      "interpretation",
+      "camera model"
+    ]
+  },
+  "estimate technical or resource requirements for development or production projects": {
+    "positives": [
+      "marketing strategy development",
+      "product development"
+    ],
+    "negatives": [
+      "password",
+      "use the rest api explorer"
+    ]
+  },
+  "interpret design or operational test results": {
+    "positives": [
+      "product design processes",
+      "unit testing"
+    ],
+    "negatives": [
+      "network cryptography",
+      "assessing your balance"
+    ]
+  }
+}

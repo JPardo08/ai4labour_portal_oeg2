@@ -1,0 +1,442 @@
+{
+  "train personnel on proper operational procedures": {
+    "positives": [
+      "conduct employee training programs",
+      "instruct college students in physical or life sciences"
+    ],
+    "negatives": [
+      "prepare proposal documents",
+      "purchase materials, equipment, or other resources"
+    ]
+  },
+  "prepare procedural documents": {
+    "positives": [
+      "document organizational or operational procedures",
+      "prepare contracts, disclosures, or applications"
+    ],
+    "negatives": [
+      "operate industrial equipment",
+      "recruit personnel"
+    ]
+  },
+  "design medical devices or appliances": {
+    "positives": [
+      "design electromechanical equipment or systems",
+      "design industrial equipment"
+    ],
+    "negatives": [
+      "direct operational or production activities",
+      "supervise employees"
+    ]
+  },
+  "conduct environmental audits": {
+    "positives": [
+      "monitor activities affecting environmental quality",
+      "analyze environmental regulations to ensure organizational compliance"
+    ],
+    "negatives": [
+      "direct sales, marketing, or customer service activities",
+      "interview employees, customers, or others to collect information"
+    ]
+  },
+  "develop operational methods or processes that use green materials or emphasize sustainability": {
+    "positives": [
+      "develop sustainable business strategies or practices",
+      "implement transportation changes to reduce environmental impact"
+    ],
+    "negatives": [
+      "manage human resources activities",
+      "fabricate devices or components"
+    ]
+  },
+  "estimate operational costs": {
+    "positives": [
+      "estimate labor requirements",
+      "estimate time requirements for development or production projects"
+    ],
+    "negatives": [
+      "research genetic characteristics or expression",
+      "install production equipment or systems"
+    ]
+  },
+  "supervise engineering or other technical personnel": {
+    "positives": [
+      "supervise production or support personnel",
+      "supervise scientific or technical personnel"
+    ],
+    "negatives": [
+      "prepare financial documents",
+      "analyze chemical compounds or substances"
+    ]
+  },
+  "research engineering aspects of biological or chemical processes": {
+    "positives": [
+      "research microbiological or chemical processes or structures",
+      "research engineering applications of emerging technologies"
+    ],
+    "negatives": [
+      "manage inventories of products or organizational resources",
+      "negotiate labor disputes"
+    ]
+  },
+  "develop software or computer applications": {
+    "positives": [
+      "develop business or financial information systems",
+      "program robotic equipment"
+    ],
+    "negatives": [
+      "hire personnel",
+      "administer standardized physical or psychological tests"
+    ]
+  },
+  "evaluate quality of materials or products": {
+    "positives": [
+      "test quality of materials or finished products",
+      "inspect finished products to locate flaws"
+    ],
+    "negatives": [
+      "direct organizational operations, projects, or services",
+      "perform marketing activities"
+    ]
+  },
+  "recommend technical design or process changes to improve efficiency, quality, or performance": {
+    "positives": [
+      "recommend organizational process or policy changes",
+      "research human performance or health factors related to engineering or design activities"
+    ],
+    "negatives": [
+      "analyze logistics processes",
+      "research diseases or parasites"
+    ]
+  },
+  "confer with technical personnel to prepare designs or operational plans": {
+    "positives": [
+      "evaluate technical data to determine effect on designs or plans",
+      "confer with other personnel to resolve design or operational problems"
+    ],
+    "negatives": [
+      "devise research or testing protocols",
+      "direct industrial production activities"
+    ]
+  },
+  "communicate technical information to suppliers, contractors, or regulatory agencies": {
+    "positives": [
+      "explain engineering drawings, specifications, or other technical information",
+      "coordinate activities with suppliers, contractors, clients, or other departments"
+    ],
+    "negatives": [
+      "approve expenditures",
+      "research industrial processes or operations"
+    ]
+  },
+  "develop technical methods or processes": {
+    "positives": [
+      "develop technical specifications for systems or equipment",
+      "develop specifications for new products or processes"
+    ],
+    "negatives": [
+      "prepare operational budgets",
+      "advise others on logistics topics"
+    ]
+  },
+  "create models of engineering designs or methods": {
+    "positives": [
+      "research advanced engineering designs or applications",
+      "create physical models or prototypes"
+    ],
+    "negatives": [
+      "perform human resources activities",
+      "represent the organization in external relations"
+    ]
+  },
+  "maintain operational records or records systems": {
+    "positives": [
+      "monitor facilities or operational systems",
+      "maintain personnel records"
+    ],
+    "negatives": [
+      "assist engineers or scientists with research",
+      "develop biological research methods"
+    ]
+  },
+  "prepare detailed work plans": {
+    "positives": [
+      "review technical documents to plan work",
+      "prepare technical reports for internal use"
+    ],
+    "negatives": [
+      "maintain laboratory or technical equipment",
+      "operate laboratory or field equipment"
+    ]
+  },
+  "update technical knowledge": {
+    "positives": [
+      "review details of technical drawings or specifications",
+      "provide technical guidance to other personnel"
+    ],
+    "negatives": [
+      "direct facility maintenance or repair activities",
+      "direct equipment maintenance or repair activities"
+    ]
+  },
+  "evaluate characteristics of equipment or systems": {
+    "positives": [
+      "test performance of electrical, electronic, mechanical, or integrated systems or equipment",
+      "design control systems for mechanical or other equipment"
+    ],
+    "negatives": [
+      "research design or application of green technologies",
+      "manage operations, research, or logistics projects"
+    ]
+  },
+  "advise customers on the use of products or services": {
+    "positives": [
+      "prepare drawings or diagrams of products or services",
+      "negotiate sales or lease agreements for products or services"
+    ],
+    "negatives": [
+      "manage scientific or technical project resources",
+      "set up laboratory or field equipment"
+    ]
+  },
+  "analyze operational data to evaluate operations, processes or products": {
+    "positives": [
+      "analyze data to assess operational or project effectiveness",
+      "conduct quantitative failure analyses of operational data"
+    ],
+    "negatives": [
+      "administer compensation or benefits programs",
+      "research methods to improve food products"
+    ]
+  },
+  "develop operating strategies, plans, or procedures": {
+    "positives": [
+      "develop organizational goals or objectives",
+      "develop organizational methods or procedures"
+    ],
+    "negatives": [
+      "repair electronic equipment",
+      "analyze biological samples"
+    ]
+  },
+  "direct quality control activities": {
+    "positives": [
+      "evaluate designs or specifications to ensure quality",
+      "test products for functionality or quality"
+    ],
+    "negatives": [
+      "advise customers on technical or procedural issues",
+      "write grant proposals"
+    ]
+  },
+  "document technical design details": {
+    "positives": [
+      "document design or operational test results",
+      "prepare scientific or technical reports or presentations"
+    ],
+    "negatives": [
+      "respond to emergencies to provide assistance",
+      "select project materials"
+    ]
+  },
+  "determine operational methods": {
+    "positives": [
+      "determine operational criteria or specifications",
+      "determine design criteria or specifications"
+    ],
+    "negatives": [
+      "apply mathematical models of financial or business conditions",
+      "advise others on career or personal development"
+    ]
+  },
+  "prepare reports related to compliance matters": {
+    "positives": [
+      "maintain regulatory or compliance documentation",
+      "review documents or materials for compliance with policies or regulations"
+    ],
+    "negatives": [
+      "assemble mechanical components or machine parts",
+      "plan facility layouts or designs"
+    ]
+  },
+  "select tools, equipment, or technologies for use in operations or projects": {
+    "positives": [
+      "evaluate potential of products, technologies, or resources",
+      "analyze design or requirements information for mechanical equipment or systems"
+    ],
+    "negatives": [
+      "develop business or market strategies",
+      "monitor external affairs or events affecting business operations"
+    ]
+  },
+  "test characteristics of materials or structures": {
+    "positives": [
+      "analyze test or validation data",
+      "conduct validation tests of equipment or processes"
+    ],
+    "negatives": [
+      "advise others regarding green practices or environmental concerns",
+      "schedule operational activities"
+    ]
+  },
+  "analyze costs and benefits of proposed designs or projects": {
+    "positives": [
+      "evaluate plans or specifications to determine technological or environmental implications",
+      "analyze green technology design requirements"
+    ],
+    "negatives": [
+      "maintain test equipment",
+      "maintain inventories of materials, equipment, or products"
+    ]
+  },
+  "determine causes of operational problems or failures": {
+    "positives": [
+      "investigate system, equipment, or product failures",
+      "monitor operational procedures in technical environments to ensure conformance to standards"
+    ],
+    "negatives": [
+      "advise others on legal or regulatory compliance matters",
+      "prepare operational reports"
+    ]
+  },
+  "analyze data to inform operational decisions or activities": {
+    "positives": [
+      "analyze data to inform personnel decisions",
+      "evaluate environmental impact of operational or development activities"
+    ],
+    "negatives": [
+      "communicate organizational policies and procedures",
+      "design industrial processing systems"
+    ]
+  },
+  "assemble equipment or components": {
+    "positives": [
+      "calibrate scientific or technical equipment",
+      "design electronic or computer equipment or instrumentation"
+    ],
+    "negatives": [
+      "compile operational data",
+      "confer with organizational members to accomplish work activities"
+    ]
+  },
+  "assess product or process usefulness": {
+    "positives": [
+      "implement design or process improvements",
+      "implement organizational process or policy changes"
+    ],
+    "negatives": [
+      "coordinate with external parties to exchange information",
+      "create graphical representations of industrial production systems"
+    ]
+  },
+  "assess the cost effectiveness of products, projects, or services": {
+    "positives": [
+      "investigate the environmental impact of projects",
+      "estimate costs of goods or services"
+    ],
+    "negatives": [
+      "design research studies to obtain scientific information",
+      "develop procedures to evaluate organizational activities"
+    ]
+  },
+  "coordinate safety or regulatory compliance activities": {
+    "positives": [ #*
+      "direct design or development activities",
+      "coordinate special events or programs"
+    ],
+    "negatives": [
+      "create graphical representations of mechanical equipment",
+      "evaluate employee performance"
+    ]
+  },
+  "cultivate micro-organisms for study, testing, or medical preparations": {
+    "positives": [
+      "prepare compounds or solutions for products or testing", #*
+      "prepare biological samples for testing or analysis"
+    ],
+    "negatives": [
+      "design environmental control systems",
+      "direct installation activities"
+    ]
+  },
+  "design structures or facilities": {
+    "positives": [
+      "interpret design or operational test results",
+      "inspect condition or functioning of facilities or equipment"
+    ],
+    "negatives": [
+      "evaluate logistics methods to reduce environmental impact",
+      "identify new applications for existing technologies"
+    ]
+  },
+  "establish organizational guidelines or policies": {
+    "positives": [
+      "develop sustainable organizational policies or practices",
+      "monitor performance of organizational members or partners" #*
+    ],
+    "negatives": [
+      "identify opportunities for green initiatives",
+      "identify opportunities to improve operational efficiency"
+    ]
+  },
+  "estimate technical or resource requirements for development or production projects": {
+    "positives": [
+      "estimate cost or material requirements",
+      "monitor environmental impacts of production or development activities"
+    ],
+    "negatives": [
+      "inspect operational processes",
+      "maintain electromechanical equipment"
+    ]
+  },
+  "collaborate with others to develop or refine designs": {
+    "positives": [
+      "collaborate on research activities with scientists or technical specialists",
+      "develop new or advanced products or production methods"
+    ],
+    "negatives": [
+      "inspect condition of natural environments",
+      "maintain knowledge of current developments in area of expertise"
+    ]
+  },
+  "monitor organizational procedures to ensure proper functioning": {
+    "positives": [
+      "monitor the productivity or efficiency of industrial operations",
+      "monitor processes for compliance with standards"
+    ],
+    "negatives": [
+      "classify organisms based on their characteristics or behavior",
+      "design energy-efficient vehicles or vehicle components"
+    ]
+  },
+  "install production equipment or systems": {
+    "positives": [
+      "fabricate products or components using machine tools",
+      "inspect facilities or sites to determine if they meet specifications or standards"
+    ],
+    "negatives": [
+      "communicate organizational information to customers or other stakeholders",
+      "analyze jobs using observation, survey, or interview techniques"
+    ]
+  },
+  "maintain data in information systems or databases": {
+    "positives": [
+      "operate computer systems",
+      "prepare operational progress or status reports" #*
+    ],
+    "negatives": [
+      "negotiate contracts for transportation, distribution, or logistics services",
+      "collect samples of raw materials or finished products"
+    ]
+  },
+  "investigate industrial or transportation accidents": {
+    "positives": [
+      "resolve operational performance problems",
+      "establish standards for products, processes, or procedures" #*
+    ],
+    "negatives": [
+      "liaise between departments or other groups to improve function or communication",
+      "evaluate new technologies or methods"
+    ]
+  }
+}

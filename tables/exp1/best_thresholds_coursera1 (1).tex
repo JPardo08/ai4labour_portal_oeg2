@@ -1,0 +1,21 @@
+\begin{table}[!ht]
+\centering
+\caption{Best thresholds — best thresholds coursera1 (top 10 by F1)}
+\label{tab:best\_thresholds\_coursera1}
+\begin{tabular}{lllrrrr}
+\hline
+pipeline & model & preset & f1 & precision & recall & coverage \\
+\hline
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/paraphrase-albert-small-v2 & F\_recall\_first & 0.516129 & 0.5 & 0.533333 & 0.186047 \\
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/paraphrase-albert-small-v2 & A\_semantic\_only & 0.465116 & 0.344828 & 0.714286 & 0.337209 \\
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/all-mpnet-base-v2 & F\_recall\_first & 0.451613 & 0.411765 & 0.5 & 0.197674 \\
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/distiluse-base-multilingual-cased-v2 & I\_short\_skills\_bias & 0.447059 & 0.296875 & 0.904762 & 0.744186 \\
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/all-distilroberta-v1 & H\_zfilter & 0.444444 & 0.301887 & 0.842105 & 0.616279 \\
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/paraphrase-MiniLM-L3-v2 & F\_recall\_first & 0.44 & 0.354839 & 0.578947 & 0.360465 \\
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/all-distilroberta-v1 & F\_recall\_first & 0.435897 & 0.293103 & 0.85 & 0.674419 \\
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/distiluse-base-multilingual-cased-v2 & D\_char\_jaccard & 0.428571 & 0.28125 & 0.9 & 0.744186 \\
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/distiluse-base-multilingual-cased-v2 & B\_hybrid\_light & 0.426966 & 0.271429 & 1 & 0.813953 \\
+threshold\_sweep\_coursera\_dwa\_cb25d773\_skill\_1edbbb05 & sentence-transformers/distiluse-base-multilingual-cased-v2 & H\_zfilter & 0.417582 & 0.263889 & 1 & 0.837209 \\
+\hline
+\end{{tabular}}
+\end{table}

@@ -1,0 +1,9 @@
+# Ignorar archivos de datos grandes
+*.csv
+*.zip
+*.tar.gz
+
+# O si quieres ignorar solo las carpetas especificas:
+analisis/key_tables/neighbors_all/
+results_dwa2/
+results_coursera2/

@@ -1,0 +1,7 @@
+MODEL=sentence_transformers_all_distilroberta_v1
+PRESET=C_lex_sem_strong
+nDCG@10=0.6197
+MAP@10=0.3533
+R@1=0.1923
+MRR=0.5422
+THRESHOLD=1.186409

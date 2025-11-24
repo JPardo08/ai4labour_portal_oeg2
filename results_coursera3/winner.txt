@@ -1,0 +1,7 @@
+MODEL=sentence-transformers/paraphrase-MiniLM-L3-v2
+PRESET=E_diversity
+nDCG@10=0.2597
+MAP@10=0.1924
+R@1=0.1047
+MRR=0.2890
+THRESHOLD=1.000000
